@@ -1,5 +1,8 @@
 package com.entity.component;
-
+/**
+*
+* Adding some comments to check if it is refected in git
+*/
 public class HCAddress {
 	
 	String HCApart_Name;

@@ -1,7 +1,10 @@
 package com.entity.entity1;
 
 import com.entity.component.HCAddress;
-
+/**
+*
+* Adding some comments to check if it is refected in git
+*/
 public class HCUser extends HCAddress{
 
 	String HCRole_ID;

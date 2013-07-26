@@ -1,7 +1,10 @@
 package com.entity.entity1;
 
 import com.entity.component.HCEntity_1;
-
+/**
+*
+* Adding some comments to check if it is refected in git
+*/
 public class HCGroup extends HCEntity_1{
 
 	String HCRole_ID;
